@@ -11,12 +11,12 @@
 
 ### Connect with me:
 
-[<img align="left" style="margin-right: 1.2em; width: 1.2em;" src="https://res.cloudinary.com/tutcan/image/upload/v1597101448/twitter-brands_1.svg"/>](https://twitter.com/josephakayesi)
+[<img align="left" style="margin-right: 18px; width: 18px;" src="https://res.cloudinary.com/tutcan/image/upload/v1597101448/twitter-brands_1.svg"/>](https://twitter.com/josephakayesi)
 
-[<img align="left" style="margin-right: 1.2em; width: 1.2em;" src="https://res.cloudinary.com/tutcan/image/upload/v1597101699/facebook-brands.svg" />](https://www.facebook.com/josephakayesi1)
+[<img align="left" style="margin-right: 18px; width: 18px;" src="https://res.cloudinary.com/tutcan/image/upload/v1597101699/facebook-brands.svg" />](https://www.facebook.com/josephakayesi1)
 
-[<img align="left" style="margin-right: 1.2em; width: 1.2em;" src="https://res.cloudinary.com/tutcan/image/upload/v1597101791/linkedin-in-brands.svg" />](https://www.linkedin.com/in/josephakayesi/)
+[<img align="left" style="margin-right: 18px; width: 18px;" src="https://res.cloudinary.com/tutcan/image/upload/v1597101791/linkedin-in-brands.svg" />](https://www.linkedin.com/in/josephakayesi/)
 
-[<img align="left" style="margin-right: 1.2em; width: 1.2em;" src="https://res.cloudinary.com/tutcan/image/upload/v1597101895/instagram-brands.svg" />](https://www.instagram.com/josephakayesi/)
+[<img align="left" style="margin-right: 18px; width: 18px;" src="https://res.cloudinary.com/tutcan/image/upload/v1597101895/instagram-brands.svg" />](https://www.instagram.com/josephakayesi/)
 
-[<img align="left" style="margin-right: 1.2em; width: 1.2em;" src="https://res.cloudinary.com/tutcan/image/upload/v1597101937/medium-brands.svg" />](https://medium.com/@josephakayesi/)
+[<img align="left" style="margin-right: 18px; width: 18px;" src="https://res.cloudinary.com/tutcan/image/upload/v1597101937/medium-brands.svg" />](https://medium.com/@josephakayesi/)
