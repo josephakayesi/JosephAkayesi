@@ -1,6 +1,6 @@
 <img align="center" src="https://res.cloudinary.com/tutcan/image/upload/v1597101398/make_things_simple-min.png"/>
 
-## Wagwan, I'm Joseph 👋🏼
+## Chale! I'm Joseph 👋🏼
 
 ### I'm a software engineer and I make things simple!
 
