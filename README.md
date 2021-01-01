@@ -4,7 +4,7 @@
 
 ### I'm a software engineer and I make things simple!
 
-- 💼 I'm currently working as the Lead Engineer for [DNAR](https://dnar.io)
+- 💼 I'm currently working remotely as the Software Engineer Contractor
 - 📡 My areas of interests are web, mobile, artificial intelligence and design
 - 🧭 I'm currently exploring the blockchain space and I'm finding an interest in it
 - 🎲 When I'm not coding I am composing and recordiing music.
