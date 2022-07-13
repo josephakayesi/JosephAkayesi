@@ -1,4 +1,4 @@
-<img align="center" src="https://res.cloudinary.com/tutcan/image/upload/v1597101398/make_things_simple-min.png"/>
+<img align="center" src="https://res.cloudinary.com/tutcan/image/upload/v1657737517/general/dohardthings.png"/>
 
 ## Chale! I'm Joseph 👋🏼
 
