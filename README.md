@@ -2,7 +2,7 @@
 
 ## Chale! I'm Joseph 👋🏼
 
-### I'm a software engineer and I make things simple!
+### I'm passionate about software and solving really hard problems.
 
 - 💼 I'm currently working remotely as a Software Engineer Contractor
 - 📡 My areas of interests are web, mobile, artificial intelligence and design
