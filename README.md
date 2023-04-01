@@ -6,7 +6,7 @@
 
 - 💼 I'm currently working as a Software Engineer in Accra, Ghana
 - 📡 My areas of interests are distributed systems, databases and networking
-- 🧭 I' exploring systems programming langauges like vlang and contributing to open source
+- 🧭 I'm exploring systems programming langauges like vlang and contributing to open source
 - 🎲 When I'm not coding, I love to try new recipes and create good music.
 
 ### Connect with me:
