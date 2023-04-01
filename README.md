@@ -1,13 +1,13 @@
 <img align="center" src="https://res.cloudinary.com/tutcan/image/upload/v1657737517/general/dohardthings.png"/>
 
-## Chale! I'm Joseph 👋🏼
+## Hi! I'm Joseph 👋🏼
 
 ### I'm passionate about software and solving really hard problems.
 
-- 💼 I'm currently working remotely as a Software Engineer Contractor
-- 📡 My areas of interests are web, mobile, artificial intelligence and design
-- 🧭 I'm currently exploring the blockchain space and I'm finding an interest in it
-- 🎲 When I'm not coding I am composing and recordiing music.
+- 💼 I'm currently working as a Software Engineer in Accra, Ghana
+- 📡 My areas of interests are distributed systems, databases and networking
+- 🧭 I' exploring systems programming langauges like vlang and contributing to open source
+- 🎲 When I'm not coding, I love to try new recipes and create good music.
 
 ### Connect with me:
 [<img align="left" style="margin-right: 18px" width:="18px" height="18px" src="https://res.cloudinary.com/tutcan/image/upload/v1597102940/twitter-brands_1.png"/>](https://twitter.com/josephakayesi)
