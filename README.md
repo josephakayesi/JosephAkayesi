@@ -11,8 +11,8 @@
 - 🎲 When I'm not coding, I love to garden and create good music.
 
 ### Favourite books
-- (Designing Distributed Systems)[https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms/dp/1491983647] - Brandan Burns 
-- (Designing Data-Intensive Applications)[https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321] - Martin Klepmman
+- [Designing Distributed Systems](https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms/dp/1491983647) - Brandan Burns 
+- [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) - Martin Klepmman
 
 ### Connect with me:
 [<img align="left" style="margin-right: 18px" width:="18px" height="18px" src="https://res.cloudinary.com/tutcan/image/upload/v1597102940/twitter-brands_1.png"/>](https://twitter.com/josephakayesi)
