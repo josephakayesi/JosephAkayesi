@@ -1,4 +1,5 @@
-<img align="center" src="https://res.cloudinary.com/tutcan/image/upload/v1657737517/general/dohardthings.png"/>
+<img align="center" src="https://res.cloudinary.com/tutcan/image/upload/v1750612061/josephakayesi.com/github/day-01-B.png"/>
+
 
 ## Hi! I'm Joseph 👋🏼
 
