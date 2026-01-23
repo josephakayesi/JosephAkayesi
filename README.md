@@ -5,10 +5,10 @@
 
 ### I'm passionate about software and solving incredibly hard problems.
 
-- 💼 I'm currently working as a Software Engineer in Accra, Ghana
-- 📡 My areas of interests are distributed systems, databases and networking
+- 💼 I'm currently working as a Senior Software Engineer in Accra, Ghana
+- 📡 My areas of interests are distributed systems and infrastructure
 - 🧭 I'm exploring systems programming langauges like vlang and contributing to open source
-- 🎲 When I'm not coding, I love to garden and create good music.
+- 🎲 When I'm not coding, I'm either creating sound or gradening. Check out sounds [here](https://linktr.ee/kwamejhosef)
 
 ### Favourite books
 - [Designing Distributed Systems](https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms/dp/1491983647) - Brandan Burns 
