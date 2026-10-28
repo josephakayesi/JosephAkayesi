@@ -3,7 +3,7 @@
 
 ## Hi! Joseph 👋🏼
 
-### I'm passionate about software and solving incredibly hard problems.
+### I'm passionate about software and doing the hardest things.
 
 - 💼 I'm currently working as a Senior Software Engineer in Accra, Ghana
 - 📡 My areas of interests are distributed systems and infrastructure
